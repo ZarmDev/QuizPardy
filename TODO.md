@@ -1,0 +1,1 @@
+Fix editquiz.js -> onChangeText not working
